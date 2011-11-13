@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\JankenTcp.cs">
+    <Files>
+      <File FileName="Assets\JankenTcp.cs" Line="149" Column="12" />
+      <File FileName="Assets\JankenSv.cs" Line="5" Column="2" />
+      <File FileName="Assets\Janken.cs" Line="10" Column="1" />
+      <File FileName="Assets\StartScene.cs" Line="9" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
